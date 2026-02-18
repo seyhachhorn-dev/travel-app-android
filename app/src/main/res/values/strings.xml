@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">travel-app</string>
+    <string name="explorer_then_nworld_with_us">Explorer then\nWorld with us</string>
+    <string name="discover_beautiful_destinations_plan_your_journey_and_create_unforgettable_memories">Discover beautiful destinations, plan your journey, and create unforgettable memories.</string>
 </resources>
